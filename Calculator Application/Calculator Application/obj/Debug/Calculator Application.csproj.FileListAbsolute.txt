@@ -1,0 +1,11 @@
+C:\LanSchool Files\Calculator Application\Calculator Application\bin\Debug\Calculator Application.exe.config
+C:\LanSchool Files\Calculator Application\Calculator Application\bin\Debug\Calculator Application.exe
+C:\LanSchool Files\Calculator Application\Calculator Application\bin\Debug\Calculator Application.pdb
+C:\LanSchool Files\Calculator Application\Calculator Application\obj\Debug\Calculator Application.csproj.AssemblyReference.cache
+C:\LanSchool Files\Calculator Application\Calculator Application\obj\Debug\Calculator Application.csproj.SuggestedBindingRedirects.cache
+C:\LanSchool Files\Calculator Application\Calculator Application\obj\Debug\Calculator_Application.Form1.resources
+C:\LanSchool Files\Calculator Application\Calculator Application\obj\Debug\Calculator_Application.Properties.Resources.resources
+C:\LanSchool Files\Calculator Application\Calculator Application\obj\Debug\Calculator Application.csproj.GenerateResource.cache
+C:\LanSchool Files\Calculator Application\Calculator Application\obj\Debug\Calculator Application.csproj.CoreCompileInputs.cache
+C:\LanSchool Files\Calculator Application\Calculator Application\obj\Debug\Calculator Application.exe
+C:\LanSchool Files\Calculator Application\Calculator Application\obj\Debug\Calculator Application.pdb
